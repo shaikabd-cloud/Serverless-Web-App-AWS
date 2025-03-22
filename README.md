@@ -11,6 +11,9 @@ In this project, you will develop a serverless web application utilizing AWS ser
 ### **Project Architecture:**
 This project follows the architecture of a **Serverless Web Application** built on AWS.
 
+![image](https://github.com/user-attachments/assets/4a0bb61f-181e-4f14-9659-c866c30560d7)
+
+
 ### **Steps to Build the Project:**
 1. **Set up a DynamoDB table** to store the application data (items).
 2. **Create a Lambda function** to manage CRUD operations on the DynamoDB table.
