@@ -1,7 +1,5 @@
 # Serverless-Web-App-AWS
-Building a Static Serverless Web Application on AWS
-
-Sure! Here's the rephrased version of the content:
+Building a Static Serverless Web Application on AWS.
 
 ---
 
@@ -24,9 +22,6 @@ This project follows the architecture of a **Serverless Web Application** built 
 Upon completing this project, you'll have a fully functional **serverless web application** deployed on AWS.  
 You will gain practical experience working with AWS services like **Lambda**, **DynamoDB**, **S3**, and **CloudFront** while integrating these services to create a seamless solution.
 
----
-
-Here’s a well-structured summary of your project steps for your GitHub page, with formatting and icons added for better readability and appeal:
 
 ---
 
