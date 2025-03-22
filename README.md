@@ -1,2 +1,22 @@
 # Serverless-Web-App-AWS
 Building a Static Serverless Web Application on AWS
+
+Project Overview:
+In this project, you will develop a serverless web application utilizing AWS services such as Lambda, DynamoDB, and S3. The app will enable users to perform CRUD (Create, Read, Update, Delete) operations on items stored in a DynamoDB table.
+
+Project Architecture:
+This project follows the architecture of a Serverless Web Application built on AWS.
+
+Steps to Build the Project:
+Set up a DynamoDB table to store the application data (items).
+
+Create a Lambda function to manage CRUD operations on the DynamoDB table.
+
+Host static files (HTML, CSS, and JavaScript) using S3 to serve the web application's frontend.
+
+Configure CloudFront to distribute the static content from S3 with low latency, ensuring fast access.
+
+Expected Outcome:
+Upon completing this project, you'll have a fully functional serverless web application deployed on AWS.
+You will gain practical experience working with AWS services like Lambda, DynamoDB, S3, and CloudFront while integrating these services to create a seamless solution.
+
